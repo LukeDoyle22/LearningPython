@@ -1,0 +1,1 @@
+input("What is the last four digits of your social security number?\n")
