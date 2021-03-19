@@ -1,1 +1,3 @@
-input("What is the last four digits of your social security number?\n")
+favFood = "Ribeye"
+day = "today"
+print("Your favorie food is " + favFood + " " + day)
