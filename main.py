@@ -1,3 +1,4 @@
-favFood = "Ribeye"
-day = "today"
-print("Your favorie food is " + favFood + " " + day)
+def addTwoNumbers(x, y):
+    return x + y
+
+print(addTwoNumbers(5, 7))
