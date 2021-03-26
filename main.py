@@ -1,5 +1,7 @@
-def addTwoNumbers(x, y):
-    return x + y
+age = input("How old are you?\n")
 
-print(addTwoNumbers(5, 7))
+if int (age) >= 16:
+    print("Access Granted")
 
+else:
+    print("Access Denied, Authorities have been notified")
